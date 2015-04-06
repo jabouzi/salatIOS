@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7213445B1AD0D371005579E0 /* ipray.png in Resources */ = {isa = PBXBuildFile; fileRef = 721344581AD0D371005579E0 /* ipray.png */; };
+		7213445C1AD0D371005579E0 /* ipray2.png in Resources */ = {isa = PBXBuildFile; fileRef = 721344591AD0D371005579E0 /* ipray2.png */; };
+		7213445D1AD0D371005579E0 /* ipray3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7213445A1AD0D371005579E0 /* ipray3.png */; };
+		721344631AD0D59C005579E0 /* cadran.png in Resources */ = {isa = PBXBuildFile; fileRef = 7213445E1AD0D59C005579E0 /* cadran.png */; };
+		721344641AD0D59C005579E0 /* hijri.png in Resources */ = {isa = PBXBuildFile; fileRef = 7213445F1AD0D59C005579E0 /* hijri.png */; };
+		721344651AD0D59C005579E0 /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = 721344601AD0D59C005579E0 /* location.png */; };
+		721344661AD0D59C005579E0 /* qibla.png in Resources */ = {isa = PBXBuildFile; fileRef = 721344611AD0D59C005579E0 /* qibla.png */; };
+		721344671AD0D59C005579E0 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 721344621AD0D59C005579E0 /* settings.png */; };
+		721344691AD0D960005579E0 /* about.png in Resources */ = {isa = PBXBuildFile; fileRef = 721344681AD0D960005579E0 /* about.png */; };
+		7213446B1AD29F60005579E0 /* ipray4.png in Resources */ = {isa = PBXBuildFile; fileRef = 7213446A1AD29F60005579E0 /* ipray4.png */; };
+		7213446E1AD2A0EF005579E0 /* Salat.m in Sources */ = {isa = PBXBuildFile; fileRef = 7213446D1AD2A0EF005579E0 /* Salat.m */; };
 		7291EED71AD0BB9B0019291C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7291EED61AD0BB9B0019291C /* main.m */; };
 		7291EEDA1AD0BB9B0019291C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7291EED91AD0BB9B0019291C /* AppDelegate.m */; };
 		7291EEDD1AD0BB9B0019291C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7291EEDC1AD0BB9B0019291C /* ViewController.m */; };
@@ -27,6 +38,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		721344581AD0D371005579E0 /* ipray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipray.png; sourceTree = "<group>"; };
+		721344591AD0D371005579E0 /* ipray2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipray2.png; sourceTree = "<group>"; };
+		7213445A1AD0D371005579E0 /* ipray3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipray3.png; sourceTree = "<group>"; };
+		7213445E1AD0D59C005579E0 /* cadran.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cadran.png; sourceTree = "<group>"; };
+		7213445F1AD0D59C005579E0 /* hijri.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hijri.png; sourceTree = "<group>"; };
+		721344601AD0D59C005579E0 /* location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = location.png; sourceTree = "<group>"; };
+		721344611AD0D59C005579E0 /* qibla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = qibla.png; sourceTree = "<group>"; };
+		721344621AD0D59C005579E0 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		721344681AD0D960005579E0 /* about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = about.png; sourceTree = "<group>"; };
+		7213446A1AD29F60005579E0 /* ipray4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ipray4.png; sourceTree = "<group>"; };
+		7213446C1AD2A0EF005579E0 /* Salat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Salat.h; sourceTree = "<group>"; };
+		7213446D1AD2A0EF005579E0 /* Salat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Salat.m; sourceTree = "<group>"; };
 		7291EED11AD0BB9A0019291C /* Salat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Salat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7291EED51AD0BB9A0019291C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7291EED61AD0BB9B0019291C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -86,8 +109,20 @@
 				7291EEDB1AD0BB9B0019291C /* ViewController.h */,
 				7291EEDC1AD0BB9B0019291C /* ViewController.m */,
 				7291EEDE1AD0BB9B0019291C /* Main.storyboard */,
+				7213446C1AD2A0EF005579E0 /* Salat.h */,
+				7213446D1AD2A0EF005579E0 /* Salat.m */,
 				7291EEE11AD0BB9B0019291C /* Images.xcassets */,
 				7291EEE31AD0BB9B0019291C /* LaunchScreen.xib */,
+				721344581AD0D371005579E0 /* ipray.png */,
+				721344591AD0D371005579E0 /* ipray2.png */,
+				7213445A1AD0D371005579E0 /* ipray3.png */,
+				7213445E1AD0D59C005579E0 /* cadran.png */,
+				7213445F1AD0D59C005579E0 /* hijri.png */,
+				721344601AD0D59C005579E0 /* location.png */,
+				721344611AD0D59C005579E0 /* qibla.png */,
+				721344621AD0D59C005579E0 /* settings.png */,
+				721344681AD0D960005579E0 /* about.png */,
+				7213446A1AD29F60005579E0 /* ipray4.png */,
 				7291EED41AD0BB9A0019291C /* Supporting Files */,
 			);
 			path = Salat;
@@ -200,8 +235,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				7291EEE01AD0BB9B0019291C /* Main.storyboard in Resources */,
+				721344631AD0D59C005579E0 /* cadran.png in Resources */,
+				721344641AD0D59C005579E0 /* hijri.png in Resources */,
+				7213446B1AD29F60005579E0 /* ipray4.png in Resources */,
+				721344671AD0D59C005579E0 /* settings.png in Resources */,
+				7213445D1AD0D371005579E0 /* ipray3.png in Resources */,
+				721344651AD0D59C005579E0 /* location.png in Resources */,
+				7213445C1AD0D371005579E0 /* ipray2.png in Resources */,
+				7213445B1AD0D371005579E0 /* ipray.png in Resources */,
+				721344661AD0D59C005579E0 /* qibla.png in Resources */,
 				7291EEE51AD0BB9B0019291C /* LaunchScreen.xib in Resources */,
 				7291EEE21AD0BB9B0019291C /* Images.xcassets in Resources */,
+				721344691AD0D960005579E0 /* about.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +267,7 @@
 				7291EEDD1AD0BB9B0019291C /* ViewController.m in Sources */,
 				7291EEDA1AD0BB9B0019291C /* AppDelegate.m in Sources */,
 				7291EED71AD0BB9B0019291C /* main.m in Sources */,
+				7213446E1AD2A0EF005579E0 /* Salat.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -346,6 +392,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Salat/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -356,6 +403,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Salat/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -414,6 +462,7 @@
 				7291EEF61AD0BB9B0019291C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7291EEF71AD0BB9B0019291C /* Build configuration list for PBXNativeTarget "SalatTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +471,7 @@
 				7291EEF91AD0BB9B0019291C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
